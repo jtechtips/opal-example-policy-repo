@@ -20,6 +20,7 @@
 package app.rbac
 
 # import data.utils
+import future.keywords.if
 
 # By default, deny requests
 default allow = false
